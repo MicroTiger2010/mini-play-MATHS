@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.one>h1{
+	color: white;
+	font-size: 48px;
+	text-align: center;
+	padding-top: 50px;
+}
+
+
+
+.one>h1{
+	color: white;
+	text-decoration: none;
+	font-size: 38px;
+	transition: 1s;
+	padding-top: 50px;
+	text-align: center;
+}
+
+
+.end a{
+	color: white;
+	text-decoration: none;
+	font-size: 42px;
+	transition: .5s;
+	padding-left: 500px;
+}
+
+
+.end>a:hover{
+	color: lightgreen;
+	font-size: 48px;
+	transition: .5s;
+}
